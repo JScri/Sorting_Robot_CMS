@@ -1,4 +1,4 @@
-# Scrap_Sorting_CMS
+# Sorting_Robot_CMS
 Group project for 49329 Control of Mechatronic Systems, UTS FEIT 2025
 
 Unzip compressed file to one directory. Follow the user guide for instructions. Group report also uploaded for further context.
